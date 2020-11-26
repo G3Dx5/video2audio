@@ -1,6 +1,6 @@
 ## video2audio
 
-Simple bash script for using the avconc command line tool. 
+Simple bash script for using the avconv command line tool (libav). 
 
 The script asks the user for the (input) video file then a name for the (output) audio file.
 
