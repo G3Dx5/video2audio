@@ -8,4 +8,4 @@ If the file already exists, the user is prompted to either overwrite the existin
 
 Usage: ./video2audio.sh
 
-GaDayas 2020. 
+G3Dx5 2020. 
